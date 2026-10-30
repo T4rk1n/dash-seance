@@ -3,6 +3,10 @@
 A multiplayer Ouija board for Halloween, built on Dash 4.5.0
 streaming callbacks and shared storage.
 
+![The Seance: the planchette lands on GOODBYE while the AI guests react](docs/screenshot.png)
+
+[Watch the 40-second demo, with sound](docs/demo.mp4).
+
 Everyone who opens the app sits at the same table. Ask the spirit a question and its
 answer is spelled out, letter by letter, on every open board at once. Three AI guests
 (Madame Zelda, Skeptical Steve and Nervous Nora) react to each answer and ask their own
