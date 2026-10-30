@@ -1,7 +1,7 @@
 # The Seance
 
-A multiplayer Ouija board for Halloween, built on Dash 4.5.0
-streaming callbacks and shared storage.
+A multiplayer Ouija board for Halloween, built to showcase two features new in
+Dash 4.5.0: streaming callbacks and shared storage.
 
 ![The Seance: the planchette lands on GOODBYE while the AI guests react](docs/screenshot.png)
 
